@@ -4,12 +4,15 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('E:\Nabin1.jpg');
+    background-image: url('![Nabin1](https://github.com/Nabinshrestha29/DJILMS/assets/135502074/eb84cc34-4c6c-4a3b-aabb-6a7ea514682b);
     background-size: cover;
     background-position: center;
     z-index: -1;
 	 background-color: rgba(0, 0, 0, 0.5);
 }
+
+
+
 
 .content-container {
     padding: 20px;
